@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24363b170f4aa6b46f12bb3ec1a544dc",
+    "revision": "ea1bf2e68983e33534b5b88c0c286037",
     "url": "/furnitura-react/index.html"
   },
   {
-    "revision": "85ee30dc65ec68105832",
+    "revision": "08396ebfa003063daf67",
     "url": "/furnitura-react/static/css/2.4b6e3ef2.chunk.css"
   },
   {
-    "revision": "c4da10b6b04233ef0294",
+    "revision": "13a049ba1152a554cea1",
     "url": "/furnitura-react/static/css/main.88c9f9d9.chunk.css"
   },
   {
-    "revision": "85ee30dc65ec68105832",
-    "url": "/furnitura-react/static/js/2.2ceda658.chunk.js"
+    "revision": "08396ebfa003063daf67",
+    "url": "/furnitura-react/static/js/2.e152b419.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/furnitura-react/static/js/2.2ceda658.chunk.js.LICENSE.txt"
+    "url": "/furnitura-react/static/js/2.e152b419.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4da10b6b04233ef0294",
-    "url": "/furnitura-react/static/js/main.234abda0.chunk.js"
+    "revision": "13a049ba1152a554cea1",
+    "url": "/furnitura-react/static/js/main.209a441f.chunk.js"
   },
   {
-    "revision": "6ef8765cbe9770c2ddf9",
-    "url": "/furnitura-react/static/js/runtime-main.00f65b3a.js"
+    "revision": "953577b0fa9a2c104ab7",
+    "url": "/furnitura-react/static/js/runtime-main.30f6ab76.js"
   },
   {
     "revision": "1c52cb742309acfda87d2eafea403a57",
