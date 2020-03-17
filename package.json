@@ -1,7 +1,7 @@
 {
-  "name": "react-antd",
+  "name": "furnitura-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://alfarelzaki.github.io/furnitura-react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
