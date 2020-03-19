@@ -14,10 +14,11 @@ import {
 } from 'antd';
 
 import {
-  CheckCircleOutlined,
+  CheckCircleTwoTone,
 } from '@ant-design/icons';
 
-import TopMenu from './components/menu';
+import TopMenu from './container/menu';
+import Counter from './container/counter'
 
 const { Header, Content, Footer } = Layout;
 const { Meta } = Card;
@@ -122,6 +123,7 @@ class PositionCarouselDemo extends React.Component {
               <p><em><b>Furnitura</b></em> memberikan rancangan ruangan yang estetis dan fungsional
                 sehingga memberikan kenyamanan bagi anda untuk beraktivitas.</p>
             </div>
+            <Counter/>
           </Col>
 
           <Col span={16}>
@@ -183,13 +185,13 @@ function App() {
         <Row className="normalRow" justify="center" gutter={24}>
           <Col span={4} className="normalCol">
             <div>
-              <Statistic title={"Proyek Selesai"} value={172} prefix={<CheckCircleOutlined />} />
+              <Statistic title={"Proyek Selesai"} value={172} prefix={<CheckCircleTwoTone twoToneColor="#52c41a" />} />
             </div>
           </Col>
 
           <Col span={4} className="normalCol">
             <div>
-              <Statistic title={"Review"} value={4.8} prefix={<CheckCircleOutlined />} suffix="/5"/>
+              <Statistic title={"Review"} value={4.8} prefix={<CheckCircleTwoTone twoToneColor="#52c41a" />} suffix="/5"/>
             </div>
           </Col>
         </Row>

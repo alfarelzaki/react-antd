@@ -40,8 +40,7 @@ class TopMenu extends React.Component {
       })
   }
 
-  render(openMessage) {
-
+  render() {
     return (
         <div className="menu-container">
             <Row justify="space-between">
