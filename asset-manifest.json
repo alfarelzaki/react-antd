@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/furnitura-react/static/css/main.88c9f9d9.chunk.css",
-    "main.js": "/furnitura-react/static/js/main.209a441f.chunk.js",
-    "main.js.map": "/furnitura-react/static/js/main.209a441f.chunk.js.map",
+    "main.js": "/furnitura-react/static/js/main.0246c3a1.chunk.js",
+    "main.js.map": "/furnitura-react/static/js/main.0246c3a1.chunk.js.map",
     "runtime-main.js": "/furnitura-react/static/js/runtime-main.30f6ab76.js",
     "runtime-main.js.map": "/furnitura-react/static/js/runtime-main.30f6ab76.js.map",
     "static/css/2.4b6e3ef2.chunk.css": "/furnitura-react/static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.e152b419.chunk.js": "/furnitura-react/static/js/2.e152b419.chunk.js",
-    "static/js/2.e152b419.chunk.js.map": "/furnitura-react/static/js/2.e152b419.chunk.js.map",
+    "static/js/2.1fb8572b.chunk.js": "/furnitura-react/static/js/2.1fb8572b.chunk.js",
+    "static/js/2.1fb8572b.chunk.js.map": "/furnitura-react/static/js/2.1fb8572b.chunk.js.map",
     "index.html": "/furnitura-react/index.html",
-    "precache-manifest.cc0930a27955f79507ea00809075a096.js": "/furnitura-react/precache-manifest.cc0930a27955f79507ea00809075a096.js",
+    "precache-manifest.d8b1f757c027f5f04e16a7fd8b7336a8.js": "/furnitura-react/precache-manifest.d8b1f757c027f5f04e16a7fd8b7336a8.js",
     "service-worker.js": "/furnitura-react/service-worker.js",
     "static/css/2.4b6e3ef2.chunk.css.map": "/furnitura-react/static/css/2.4b6e3ef2.chunk.css.map",
     "static/css/main.88c9f9d9.chunk.css.map": "/furnitura-react/static/css/main.88c9f9d9.chunk.css.map",
-    "static/js/2.e152b419.chunk.js.LICENSE.txt": "/furnitura-react/static/js/2.e152b419.chunk.js.LICENSE.txt",
+    "static/js/2.1fb8572b.chunk.js.LICENSE.txt": "/furnitura-react/static/js/2.1fb8572b.chunk.js.LICENSE.txt",
     "static/media/furniture1.jpg": "/furnitura-react/static/media/furniture1.1c52cb74.jpg",
     "static/media/furniture2.jpg": "/furnitura-react/static/media/furniture2.bd5924c3.jpg",
     "static/media/furniture3.jpg": "/furnitura-react/static/media/furniture3.e8399f07.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.30f6ab76.js",
     "static/css/2.4b6e3ef2.chunk.css",
-    "static/js/2.e152b419.chunk.js",
+    "static/js/2.1fb8572b.chunk.js",
     "static/css/main.88c9f9d9.chunk.css",
-    "static/js/main.209a441f.chunk.js"
+    "static/js/main.0246c3a1.chunk.js"
   ]
 }
