@@ -1,3 +1,7 @@
+## Riwayat Pembaruan
+
++ 3/19/2020 : Menambahkan fungsi count untuk mengukur tingkat kepuasan pengguna dengan menggunakan emoji sederhana. Senang (+1) dan Sedih (-1).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
