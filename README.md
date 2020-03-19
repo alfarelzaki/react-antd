@@ -2,6 +2,8 @@
 
 + 3/19/2020 : Menambahkan fungsi count untuk mengukur tingkat kepuasan pengguna dengan menggunakan emoji sederhana. Senang (+1) dan Sedih (-1).
 
+# User Guide
+
 ## Available Scripts
 
 In the project directory, you can run:
