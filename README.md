@@ -2,6 +2,8 @@
 
 + 3/19/2020 : Menambahkan fungsi count untuk mengukur tingkat kepuasan pengguna dengan menggunakan emoji sederhana. Senang (+1) dan Sedih (-1).
 
++ 3/26/2020 : Menambahkan halaman kedua yang dapat diakses dengan mengklik menu item Masuk yang ada di pojok kanan atas.
+
 # User Guide
 
 ## Available Scripts

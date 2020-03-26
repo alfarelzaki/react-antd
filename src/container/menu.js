@@ -1,5 +1,6 @@
 import React from 'react';
 import { Menu } from 'antd';
+import { Link } from 'react-router-dom';
 import { Row, Col, notification, Button, message } from 'antd';
 import {
   MailOutlined,
@@ -44,8 +45,8 @@ class TopMenu extends React.Component {
     return (
         <div className="menu-container">
             <Row justify="space-between">
-                <Col span={4}>
-                    <h1>Furnitura</h1>
+                <Col span={4}>                  
+                    <Link to='/'><h1>Furnitura</h1></Link> 
                 </Col>
                 
                 <Col span={8}>
@@ -75,7 +76,7 @@ class TopMenu extends React.Component {
                         </Menu.Item>
                         <Menu.Item key="profile" onClick={this.masukAkun}>
                             <UserOutlined />
-                            {this.state.profile}
+                            <Link to='/profile'>{this.state.profile}</Link> 
                         </Menu.Item>
                     </Menu>                
                 </Col>
