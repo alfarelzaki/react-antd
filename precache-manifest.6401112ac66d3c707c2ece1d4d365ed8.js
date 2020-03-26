@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0ee02d51cfd057efb074930a71971f4",
+    "revision": "1375d856835147b98895f25cb4f21bff",
     "url": "/furnitura-react/index.html"
   },
   {
-    "revision": "f9eb702bf8a653c5d8c7",
+    "revision": "367a5f8b6ef4e50d9597",
     "url": "/furnitura-react/static/css/2.4b6e3ef2.chunk.css"
   },
   {
-    "revision": "8d233e9379f9490c5c59",
-    "url": "/furnitura-react/static/css/main.88c9f9d9.chunk.css"
+    "revision": "e1a0410459ed1a237cba",
+    "url": "/furnitura-react/static/css/main.cdf6c648.chunk.css"
   },
   {
-    "revision": "f9eb702bf8a653c5d8c7",
-    "url": "/furnitura-react/static/js/2.1fb8572b.chunk.js"
+    "revision": "367a5f8b6ef4e50d9597",
+    "url": "/furnitura-react/static/js/2.2a049498.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/furnitura-react/static/js/2.1fb8572b.chunk.js.LICENSE.txt"
+    "url": "/furnitura-react/static/js/2.2a049498.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d233e9379f9490c5c59",
-    "url": "/furnitura-react/static/js/main.0246c3a1.chunk.js"
+    "revision": "e1a0410459ed1a237cba",
+    "url": "/furnitura-react/static/js/main.f2aa4bf8.chunk.js"
   },
   {
     "revision": "953577b0fa9a2c104ab7",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac1fa5f744958e3f028f24fc9f6c8841",
     "url": "/furnitura-react/static/media/furniture4.ac1fa5f7.jpg"
+  },
+  {
+    "revision": "559b8257cc6e4e320037e33be0e3ff5f",
+    "url": "/furnitura-react/static/media/persona-tidy.559b8257.png"
   },
   {
     "revision": "a6fcd36ddf568e277ca93bf40f16e7b3",
